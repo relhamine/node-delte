@@ -1,0 +1,6 @@
+http://naholyr.fr/2011/08/ecrire-service-rest-nodejs-express-partie-1/
+http://www.developper-jeux-video.com/node-js-form-post-get-express-url/
+
+Setting up Babel File watcher
+
+http://www.js-attitude.fr/2014/10/23/libs-node-js/

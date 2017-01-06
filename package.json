@@ -1,0 +1,28 @@
+{
+  "name": "node-authentification",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "node": "nodemon ./server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "cradle": "^0.7.1",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "jquery": "^3.1.1",
+    "mysql": "^2.12.0",
+    "nconf": "^0.8.4",
+    "socket.io": "^1.7.2",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bowercopy": "^1.2.4",
+    "grunt-injector": "^1.1.0",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  }
+}
